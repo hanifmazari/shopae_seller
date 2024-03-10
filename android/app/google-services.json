@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952075725385",
+    "project_id": "shopee-36cc2",
+    "storage_bucket": "shopee-36cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952075725385:android:c4ba1971542687989ced98",
+        "android_client_info": {
+          "package_name": "com.example.shopae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0XKKzQMsz4x6kF8t9G1ND31iKlkNWIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952075725385:android:2bdf4ec4617521049ced98",
+        "android_client_info": {
+          "package_name": "com.example.shopae_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0XKKzQMsz4x6kF8t9G1ND31iKlkNWIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
